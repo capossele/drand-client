@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/capossele/drand/drand/client"
+	"github.com/capossele/drand-client/drand/client"
 )
 
 const (
